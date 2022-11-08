@@ -9,4 +9,4 @@ The following observations were made with the scraped data:
 - Month 8 is the warmest month with an average temperature of -68 C
 - Month 6 has the lowest atmospheric pressure with an average of 745 Pascals
 - Month 9 has the highest atmospheric pressure with an average of 913 Pascals
-- One Martian year is equivalent to 686 days on Earth.
+- One Martian year is equivalent to 686 days on Earth
